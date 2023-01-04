@@ -20,4 +20,5 @@
 
 ![Project Screenshot](https://img.shields.io/badge/LiveClass-Project--2-purple)
 
-![LCO](./output.png)
+
+![project-02](https://user-images.githubusercontent.com/112545072/210521084-a29f7d32-1636-4b5b-b90f-bebb61964ca8.png)
