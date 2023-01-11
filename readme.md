@@ -1,7 +1,6 @@
 # Project- 02
 
 - ## [ Project Live Link](https://fsjs2-20th-nov-project-02.netlify.app/)
-
 > ### Social Media Links:
 
 - ### [Portfolio Website Link](https://www.findcoder.io/u/atulsinghatul)
